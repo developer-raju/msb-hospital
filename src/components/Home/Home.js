@@ -26,7 +26,7 @@ const Home = () => {
                     />
                     <Carousel.Caption>
                         <h3>Best Medicine</h3>
-                        <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
+                        <p>This Hospital Service and Doctors are very eperts.</p>
                     </Carousel.Caption>
                 </Carousel.Item>
                 <Carousel.Item>
